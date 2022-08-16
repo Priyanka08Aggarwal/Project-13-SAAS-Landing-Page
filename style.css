@@ -261,6 +261,12 @@ border-radius: 50%;
     }
     .customer-cards .card{
         margin-bottom: 2rem;
+        width: 30rem;
+        font-size: 1.5rem;
+        /* height: 10rem; */
+    }
+    .customer-cards .card .info p{
+        font-size: 1rem;
     }
    
     .customer{
