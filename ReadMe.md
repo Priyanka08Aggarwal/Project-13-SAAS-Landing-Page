@@ -1,1 +1,1 @@
-Live Link: https://app.netlify.com/sites/pa-saas-landing-page
+Live Link: https://pa-saas-landing-page.netlify.app/
